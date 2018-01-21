@@ -27,16 +27,19 @@ list-style-type:hiragana-iroha;
 max-width: 100%;
 }
  
+.info {
+    font-size:20px;
+    position:absolute;
+    margin-top:-70px;
+}
 .andrea {
     width:600px;
     height:400px;
     padding:30px;
     margin:0 auto;
-    border:1px solid #eee;
+    border:1px solid #aaa;
     margin-top:100px;
 }
-
-
 
 .a {
     position:absolute;
